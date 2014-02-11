@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PHP-Twig",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"SVN",
+		"SyncedSideBar",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}

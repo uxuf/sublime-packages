@@ -1,0 +1,16 @@
+2014-01-02 16:26:25
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./SVN.py", line 415, in run
+    SVN.init(svn_binary_path=svn_binary_path)
+  File "./sublimesvn/proc.py", line 614, in init
+  File "./sublimesvn/proc.py", line 639, in get_version
+  File "./sublimesvn/proc.py", line 539, in read
+ProcessError: xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+2014-01-02 16:26:27
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 23, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 31, in run
+  File "./sublimesvn/proc.py", line 80, in get_wc_root
+  File "./sublimesvn/proc.py", line 181, in find_wc_root
+ProcessError: xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
